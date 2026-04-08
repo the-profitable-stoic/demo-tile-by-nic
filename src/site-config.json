@@ -1,0 +1,548 @@
+{
+  "business": {
+    "name": "Tile by Nic",
+    "phone": "+15204048355",
+    "category": "flooring contractor",
+    "city": "Tucson",
+    "state": "AZ"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-red-charge",
+      "categoryGroup": "roofing",
+      "name": "Red Charge",
+      "recipeFile": "roofing/red-charge.astro",
+      "colors": {
+        "primary": "#1F3A56",
+        "primaryDark": "#152B42",
+        "primaryLight": "#D0DCE8",
+        "secondary": "#2B4C6F",
+        "accent": "#DC143C",
+        "background": "#FFFFFF",
+        "backgroundAlt": "#1F3A56",
+        "surface": "#F5F7FA",
+        "text": "#111827",
+        "textLight": "#6B7280",
+        "textOnDark": "#FFFFFF",
+        "border": "#E5E7EB"
+      },
+      "typography": {
+        "headingFont": "DM Sans",
+        "headingWeight": "700",
+        "bodyFont": "Inter",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.2"
+      },
+      "shape": {
+        "borderRadius": "8px",
+        "buttonRadius": "8px",
+        "cardRadius": "12px",
+        "shadowStyle": "soft"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "surface",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "roofing/red-charge"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Flooring Done Right, Guaranteed.",
+      "heroSubline": "Tile by Nic delivers expert flooring solutions across Tucson. Quality craftsmanship, lasting results.",
+      "aboutTitle": "Decades of Flooring Expertise in Tucson",
+      "aboutText": [
+        "Tile by Nic started with a simple goal: to provide Tucson residents with flooring solutions built to last. We saw too many homes falling victim to poor installations and cheap materials, especially with our harsh desert climate. So, we assembled a team of skilled installers dedicated to doing things the right way.",
+        "Our approach is straightforward: meticulous preparation, premium materials, and unwavering attention to detail. We treat every project, from a small bathroom remodel to a whole-house flooring overhaul, with the same level of care and precision. We’re not interested in quick fixes; we’re here to build floors that stand the test of time.",
+        "We’re proud to be a part of the Tucson community. We source materials locally whenever possible, and we actively support local charities. We believe in giving back to the city that has given us so much."
+      ],
+      "valueProps": [
+        {
+          "title": "Expert Installation",
+          "description": "Our team has years of experience installing all types of flooring, ensuring a flawless finish."
+        },
+        {
+          "title": "Durable Materials",
+          "description": "We use only the highest-quality materials that can withstand Tucson's extreme temperatures and weather."
+        },
+        {
+          "title": "Local Expertise",
+          "description": "We understand the unique challenges of flooring in Tucson homes, from moisture control to sun exposure."
+        },
+        {
+          "title": "Satisfaction Guaranteed",
+          "description": "We stand behind our work and are committed to ensuring your complete satisfaction with the final result."
+        }
+      ],
+      "ctaHeadline": "Transform Your Floors Today!",
+      "ctaSubline": "Get a free quote and discover the difference quality flooring can make."
+    },
+    "services": [
+      {
+        "slug": "tile-installation",
+        "name": "Tile Installation",
+        "shortDescription": "Expert tile installation for kitchens, bathrooms, patios, and more.",
+        "description": "Tile installation is more than just laying down squares; it's an art that demands precision and expertise, especially in a climate like Tucson's. We handle everything from initial surface preparation to the final grout application, ensuring a durable and beautiful finish. We work with all types of tile, including ceramic, porcelain, natural stone, and mosaic. Our team understands the importance of proper substrate preparation to prevent cracking and shifting due to temperature changes and ground movement common in the desert. We also pay close attention to grout selection and sealing to protect against moisture intrusion, especially critical in bathrooms and kitchens. Whether it's a classic subway tile backsplash or a complex custom mosaic, we have the skills and experience to bring your vision to life. We take pride in our meticulous attention to detail, ensuring perfectly aligned tiles and seamless transitions. We understand the unique challenges of Tucson homes, and we tailor our installation methods to ensure lasting beauty and performance.",
+        "process": [
+          "Step 1: Consultation and Design – Discuss your vision, select materials, and create a detailed plan.",
+          "Step 2: Surface Preparation – Ensure a clean, level, and stable base for optimal tile adhesion.",
+          "Step 3: Tile Installation – Precise placement and cutting for a flawless and durable finish.",
+          "Step 4: Grouting and Sealing – Protect your tile and grout from moisture and stains."
+        ],
+        "benefits": [
+          "Enhanced Aesthetics",
+          "Increased Home Value",
+          "Durable and Long-Lasting",
+          "Easy to Clean and Maintain"
+        ],
+        "faq": [
+          {
+            "question": "What type of tile is best for Tucson's climate?",
+            "answer": "Porcelain and ceramic tiles are excellent choices for Tucson's climate due to their durability, water resistance, and ability to withstand temperature fluctuations. Natural stone, when properly sealed, can also be a good option."
+          },
+          {
+            "question": "How long does tile installation typically take?",
+            "answer": "The duration of tile installation depends on the size and complexity of the project. A small bathroom backsplash might take a day or two, while a large floor installation could take several days to a week."
+          },
+          {
+            "question": "Do you offer tile removal services?",
+            "answer": "Yes, we provide complete tile removal services, including proper disposal of old materials. We take care to minimize dust and disruption during the removal process."
+          }
+        ]
+      },
+      {
+        "slug": "hardwood-flooring",
+        "name": "Hardwood Flooring",
+        "shortDescription": "Elegant and timeless hardwood flooring installation and refinishing.",
+        "description": "Hardwood flooring brings warmth and sophistication to any Tucson home. We specialize in both new hardwood installations and the restoration of existing hardwood floors. We understand the challenges of installing hardwood in a desert environment, where humidity fluctuations can cause expansion and contraction. That's why we use only the highest-quality materials and installation techniques to ensure a stable and long-lasting floor. We offer a wide variety of hardwood species, from classic oak and maple to exotic options like Brazilian cherry and bamboo. Our team can help you choose the perfect wood to complement your home's style and décor. We also provide expert sanding, staining, and finishing services to restore your existing hardwood floors to their original beauty. Whether you're looking to add value to your home or simply create a more inviting living space, hardwood flooring is an excellent choice.",
+        "process": [
+          "Step 1: Consultation and Selection – Choose the perfect hardwood species and finish for your home.",
+          "Step 2: Subfloor Preparation – Ensure a level and stable subfloor for optimal hardwood installation.",
+          "Step 3: Hardwood Installation – Meticulous installation for a seamless and durable floor.",
+          "Step 4: Sanding and Finishing – Achieve a smooth, even surface with a protective and beautiful finish."
+        ],
+        "benefits": [
+          "Increased Home Value",
+          "Timeless Elegance",
+          "Durable and Long-Lasting",
+          "Warm and Inviting"
+        ],
+        "faq": [
+          {
+            "question": "Is hardwood flooring suitable for Tucson's climate?",
+            "answer": "Yes, with proper installation and maintenance, hardwood flooring can thrive in Tucson. We recommend using engineered hardwood, which is more resistant to humidity fluctuations than solid hardwood."
+          },
+          {
+            "question": "How often should hardwood floors be refinished?",
+            "answer": "Hardwood floors typically need to be refinished every 7-10 years, depending on foot traffic and wear. We can assess your floors and recommend the best course of action."
+          },
+          {
+            "question": "What is the best way to clean hardwood floors?",
+            "answer": "Use a damp mop with a pH-neutral cleaner specifically designed for hardwood floors. Avoid using excessive water or harsh chemicals."
+          }
+        ]
+      },
+      {
+        "slug": "laminate-flooring",
+        "name": "Laminate Flooring",
+        "shortDescription": "Affordable and durable laminate flooring installation for any room.",
+        "description": "Laminate flooring offers a cost-effective and versatile alternative to hardwood. It's a great option for homeowners in Tucson looking for a durable and easy-to-maintain flooring solution. Laminate is resistant to scratches, stains, and fading, making it ideal for high-traffic areas and homes with pets or children. We offer a wide selection of laminate styles and colors to match any décor. Our team provides expert installation services, ensuring a seamless and professional finish. We understand the importance of proper underlayment to provide cushioning and sound insulation. Whether you're renovating your entire home or just updating a single room, laminate flooring is a smart and stylish choice.",
+        "process": [
+          "Step 1: Consultation and Selection – Choose the perfect laminate style and color for your space.",
+          "Step 2: Subfloor Preparation – Ensure a clean, level, and dry subfloor for optimal laminate installation.",
+          "Step 3: Laminate Installation – Precise installation with proper expansion gaps for a durable and beautiful floor.",
+          "Step 4: Finishing Touches – Install baseboards and trim for a polished and professional look."
+        ],
+        "benefits": [
+          "Affordable",
+          "Durable and Scratch-Resistant",
+          "Easy to Clean and Maintain",
+          "Wide Variety of Styles"
+        ],
+        "faq": [
+          {
+            "question": "Is laminate flooring waterproof?",
+            "answer": "While some laminate flooring is water-resistant, it is not entirely waterproof. It's important to clean up spills promptly to prevent damage."
+          },
+          {
+            "question": "Can laminate flooring be installed over existing flooring?",
+            "answer": "In many cases, laminate flooring can be installed over existing flooring, provided the existing floor is level and stable. We can assess your specific situation and advise you on the best course of action."
+          },
+          {
+            "question": "How long does laminate flooring typically last?",
+            "answer": "With proper care and maintenance, laminate flooring can last for 10-20 years."
+          }
+        ]
+      },
+      {
+        "slug": "vinyl-flooring",
+        "name": "Vinyl Flooring",
+        "shortDescription": "Waterproof and stylish vinyl flooring solutions for kitchens and bathrooms.",
+        "description": "Vinyl flooring is an excellent choice for areas prone to moisture, such as kitchens, bathrooms, and laundry rooms in Tucson homes. It's waterproof, durable, and easy to clean, making it a practical and stylish option. We offer a wide variety of vinyl flooring styles, including sheet vinyl, vinyl tile, and luxury vinyl plank (LVP). LVP is particularly popular for its realistic wood and stone looks and its ability to withstand heavy foot traffic. Our team provides expert installation services, ensuring a seamless and watertight finish. We pay close attention to subfloor preparation to prevent bubbling and warping. Whether you're looking for a budget-friendly option or a high-end luxury vinyl, we have the perfect solution for your needs.",
+        "process": [
+          "Step 1: Consultation and Selection – Choose the perfect vinyl style and color for your space.",
+          "Step 2: Subfloor Preparation – Ensure a clean, level, and dry subfloor for optimal vinyl installation.",
+          "Step 3: Vinyl Installation – Precise installation with proper sealing for a waterproof and durable floor.",
+          "Step 4: Finishing Touches – Install baseboards and trim for a polished and professional look."
+        ],
+        "benefits": [
+          "Waterproof",
+          "Durable and Stain-Resistant",
+          "Easy to Clean and Maintain",
+          "Wide Variety of Styles"
+        ],
+        "faq": [
+          {
+            "question": "Is vinyl flooring a good choice for bathrooms?",
+            "answer": "Yes, vinyl flooring is an excellent choice for bathrooms due to its waterproof properties and resistance to mold and mildew."
+          },
+          {
+            "question": "What is the difference between sheet vinyl and vinyl tile?",
+            "answer": "Sheet vinyl comes in large rolls, providing a seamless and waterproof surface. Vinyl tile comes in individual squares or planks, allowing for more design flexibility."
+          },
+          {
+            "question": "How do I clean vinyl flooring?",
+            "answer": "Use a damp mop with a mild detergent. Avoid using harsh chemicals or abrasive cleaners."
+          }
+        ]
+      },
+      {
+        "slug": "carpet-installation",
+        "name": "Carpet Installation",
+        "shortDescription": "Comfortable and stylish carpet installation for bedrooms and living rooms.",
+        "description": "Carpet provides warmth, comfort, and sound insulation to any Tucson home. We offer a wide selection of carpet styles, colors, and textures to match your décor. Our team provides expert installation services, ensuring a seamless and professional finish. We understand the importance of proper padding to provide cushioning and extend the life of your carpet. We also offer carpet repair and stretching services to keep your carpet looking its best. From plush shag to durable Berber, we have the perfect carpet solution for your needs. Regular carpet cleaning is important in Tucson to remove desert dust and allergens.",
+        "process": [
+          "Step 1: Consultation and Selection – Choose the perfect carpet style, color, and texture for your space.",
+          "Step 2: Padding Installation – Install high-quality padding for optimal comfort and durability.",
+          "Step 3: Carpet Installation – Precise installation with proper stretching for a seamless and long-lasting floor.",
+          "Step 4: Finishing Touches – Trim and secure edges for a polished and professional look."
+        ],
+        "benefits": [
+          "Comfortable and Warm",
+          "Sound Insulation",
+          "Wide Variety of Styles",
+          "Soft Underfoot"
+        ],
+        "faq": [
+          {
+            "question": "What type of carpet is best for high-traffic areas?",
+            "answer": "Berber carpet is a good choice for high-traffic areas due to its durability and stain resistance."
+          },
+          {
+            "question": "How often should I clean my carpets?",
+            "answer": "We recommend cleaning your carpets at least twice a year, or more often if you have pets or children."
+          },
+          {
+            "question": "Do you offer carpet repair services?",
+            "answer": "Yes, we offer carpet repair and stretching services to keep your carpet looking its best."
+          }
+        ]
+      },
+      {
+        "slug": "flooring-repair",
+        "name": "Flooring Repair",
+        "shortDescription": "Expert repair services for all types of flooring.",
+        "description": "Flooring damage is inevitable, but it doesn't have to be a permanent problem. We offer expert repair services for all types of flooring, from tile and hardwood to laminate and vinyl. Whether you have a cracked tile, a warped plank, or a stained carpet, our team can restore your floors to their original beauty. We use only the highest-quality materials and techniques to ensure a durable and long-lasting repair. We understand the importance of matching existing flooring to maintain a seamless look. Don't let damaged floors detract from the beauty of your Tucson home; call us for fast and reliable repair services. Our experience with Tucson's specific climate and common flooring issues makes us the ideal choice for your repair needs.",
+        "process": [
+          "Step 1: Assessment – Evaluate the damage and determine the best repair solution.",
+          "Step 2: Preparation – Prepare the area for repair by cleaning and removing any debris.",
+          "Step 3: Repair – Execute the repair using high-quality materials and techniques.",
+          "Step 4: Finishing – Blend the repair seamlessly with the existing flooring."
+        ],
+        "benefits": [
+          "Extends the Life of Your Flooring",
+          "Restores Beauty and Functionality",
+          "Cost-Effective Solution",
+          "Prevents Further Damage"
+        ],
+        "faq": [
+          {
+            "question": "How much does flooring repair cost?",
+            "answer": "The cost of flooring repair depends on the type and extent of the damage. We offer free estimates to assess your specific situation."
+          },
+          {
+            "question": "Can you match the existing flooring?",
+            "answer": "Yes, we make every effort to match the existing flooring as closely as possible. We have access to a wide range of materials and can often source discontinued items."
+          },
+          {
+            "question": "How long does flooring repair take?",
+            "answer": "The duration of flooring repair depends on the complexity of the job. Minor repairs can often be completed in a few hours, while more extensive repairs may take a day or two."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Tucson",
+        "slug": "tucson-az",
+        "state": "AZ",
+        "content": "Tile by Nic is proud to offer expert flooring contractor services to the residents and businesses of Tucson, Arizona. We understand the unique architectural styles and climate considerations that are prevalent in the Tucson area, ensuring that our installations are both beautiful and durable. From historic adobe homes to modern commercial spaces, we have the experience and expertise to handle any flooring project.\n\nOur commitment to quality craftsmanship and customer satisfaction has made us a trusted choice for Tucson residents. We offer a wide range of flooring options, including tile, hardwood, laminate, and vinyl, allowing you to find the perfect solution for your needs and budget. We are dedicated to providing personalized service and ensuring that every project is completed to the highest standards. Whether you're looking to renovate your kitchen, upgrade your bathroom, or install new flooring throughout your home or business, Tile by Nic is here to help.\n\nWe are familiar with the unique challenges and opportunities presented by Tucson's desert environment. Our team uses only the highest quality materials and proven installation techniques to ensure that your flooring will withstand the test of time.",
+        "localContext": "Tucson is a vibrant city known for its rich cultural heritage, stunning desert landscapes, and delicious Southwestern cuisine. Tile by Nic is proud to be a part of this community.",
+        "nearbyAreas": [
+          "Oro Valley",
+          "Marana",
+          "Sahuarita"
+        ]
+      },
+      {
+        "city": "Oro Valley",
+        "slug": "oro-valley-az",
+        "state": "AZ",
+        "content": "Tile by Nic extends its professional flooring installation and repair services to the beautiful community of Oro Valley, Arizona. Known for its upscale residential areas and stunning views of the Santa Catalina Mountains, Oro Valley deserves flooring solutions that complement its elegance and charm.\n\nWe provide a comprehensive range of flooring options to Oro Valley homeowners and businesses, ensuring that every installation is tailored to their specific needs and preferences. Our experienced team is adept at working with a variety of materials, including tile, hardwood, and luxury vinyl, to create lasting and visually appealing flooring solutions. We pride ourselves on delivering exceptional customer service and ensuring that every project is completed to the highest standards of quality.\n\nFrom enhancing the aesthetic appeal of your home to improving the functionality of your commercial space, Tile by Nic is committed to providing Oro Valley with top-notch flooring services. We are dedicated to exceeding your expectations and ensuring your complete satisfaction.",
+        "localContext": "Oro Valley offers a blend of natural beauty, upscale living, and a thriving community spirit. Tile by Nic is dedicated to providing top-quality flooring services that enhance the appeal of Oro Valley homes and businesses.",
+        "nearbyAreas": [
+          "Tucson",
+          "Marana",
+          "Catalina Foothills"
+        ]
+      },
+      {
+        "city": "Marana",
+        "slug": "marana-az",
+        "state": "AZ",
+        "content": "Tile by Nic proudly serves the growing community of Marana, Arizona, with reliable and professional flooring services. As Marana continues to develop, we are committed to providing homeowners and businesses with the highest quality flooring solutions to meet their evolving needs.\n\nWe understand the importance of durable and aesthetically pleasing flooring in Marana's diverse residential and commercial settings. Our skilled installers are experienced in working with a variety of flooring materials, including tile, laminate, and hardwood, ensuring that every project is completed to the highest standards of craftsmanship. We are dedicated to providing personalized service and ensuring that our customers are completely satisfied with the results.\n\nWhether you're building a new home, renovating an existing space, or simply looking to upgrade your flooring, Tile by Nic is here to help. We offer a wide range of flooring options to suit any style and budget, and we are committed to providing exceptional customer service every step of the way.",
+        "localContext": "Marana is a thriving community with a growing population and a strong sense of community. Tile by Nic is committed to serving the flooring needs of Marana residents and businesses.",
+        "nearbyAreas": [
+          "Tucson",
+          "Oro Valley",
+          "Avra Valley"
+        ]
+      },
+      {
+        "city": "Sahuarita",
+        "slug": "sahuarita-az",
+        "state": "AZ",
+        "content": "Tile by Nic is pleased to offer its expert flooring services to the residents and businesses of Sahuarita, Arizona. As a rapidly growing community, Sahuarita presents unique opportunities for homeowners and businesses alike, and we are dedicated to providing flooring solutions that enhance the beauty and functionality of their spaces.\n\nWe understand the importance of quality flooring in creating a comfortable and inviting environment. Our team of experienced installers is skilled in working with a variety of materials, including tile, carpet, and vinyl, ensuring that every project is completed to the highest standards of craftsmanship. We are committed to providing personalized service and ensuring that our customers are completely satisfied with the results.\n\nFrom new home construction to renovations and upgrades, Tile by Nic is here to help Sahuarita residents achieve their flooring goals. We offer a wide range of flooring options to suit any style and budget, and we are dedicated to providing exceptional customer service every step of the way.",
+        "localContext": "Sahuarita is a family-friendly community with a strong sense of community pride. Tile by Nic is dedicated to providing top-quality flooring services that enhance the appeal of Sahuarita homes and businesses.",
+        "nearbyAreas": [
+          "Tucson",
+          "Green Valley",
+          "Corona de Tucson"
+        ]
+      },
+      {
+        "city": "Green Valley",
+        "slug": "green-valley-az",
+        "state": "AZ",
+        "content": "Tile by Nic extends its flooring expertise to Green Valley, Arizona, providing exceptional service and quality workmanship to this vibrant retirement community. We understand the unique needs and preferences of Green Valley residents and are committed to providing flooring solutions that enhance their comfort and lifestyle.\n\nWe offer a wide range of flooring options that are both stylish and practical, including tile, laminate, and vinyl. Our experienced installers are skilled in working with these materials and ensuring that every project is completed to the highest standards of quality. We are dedicated to providing personalized service and ensuring that our customers are completely satisfied with the results.\n\nFrom upgrading your kitchen or bathroom to installing new flooring throughout your home, Tile by Nic is here to help Green Valley residents achieve their flooring goals. We offer competitive pricing and flexible scheduling to make the process as convenient as possible.",
+        "localContext": "Green Valley is a popular retirement community known for its beautiful scenery and active lifestyle. Tile by Nic is proud to serve the flooring needs of Green Valley residents.",
+        "nearbyAreas": [
+          "Sahuarita",
+          "Tucson",
+          "Rio Rico"
+        ]
+      },
+      {
+        "city": "Catalina Foothills",
+        "slug": "catalina-foothills-az",
+        "state": "AZ",
+        "content": "Tile by Nic provides premium flooring services to the Catalina Foothills, known for its upscale homes and stunning desert views. We understand the importance of high-quality materials and expert craftsmanship in maintaining the elegance and value of properties in this prestigious area.\n\nWe offer a wide selection of flooring options, including luxurious tile, hardwood, and natural stone, perfectly suited to complement the architectural styles found in the Catalina Foothills. Our team is experienced in working with discerning homeowners and ensuring that every installation is completed to their exact specifications. We are committed to providing exceptional customer service and exceeding expectations.\n\nWhether you're looking to renovate your entire home or simply upgrade your flooring, Tile by Nic is dedicated to providing the Catalina Foothills with top-tier flooring solutions. We are passionate about creating beautiful and durable spaces that enhance the beauty and value of your home.",
+        "localContext": "Catalina Foothills is an affluent area known for its luxury homes, stunning mountain views, and world-class resorts. Tile by Nic is dedicated to providing flooring services that match the area's high standards.",
+        "nearbyAreas": [
+          "Tucson",
+          "Oro Valley",
+          "Tanque Verde"
+        ]
+      },
+      {
+        "city": "Vail",
+        "slug": "vail-az",
+        "state": "AZ",
+        "content": "Tile by Nic is pleased to extend its services to Vail, Arizona, providing top-quality flooring solutions to this growing community. We understand the importance of durable and aesthetically pleasing flooring in creating comfortable and inviting homes and businesses.\n\nWe offer a wide range of flooring options to suit any style and budget, including tile, laminate, and vinyl. Our experienced installers are skilled in working with these materials and ensuring that every project is completed to the highest standards of quality. We are dedicated to providing personalized service and ensuring that our customers are completely satisfied with the results.\n\nFrom new construction to renovations and upgrades, Tile by Nic is here to help Vail residents achieve their flooring goals. We offer competitive pricing and flexible scheduling to make the process as convenient as possible.",
+        "localContext": "Vail is a rapidly growing community located southeast of Tucson, known for its family-friendly atmosphere. Tile by Nic is committed to serving the flooring needs of Vail residents and businesses.",
+        "nearbyAreas": [
+          "Tucson",
+          "Sahuarita",
+          "Corona de Tucson"
+        ]
+      },
+      {
+        "city": "South Tucson",
+        "slug": "south-tucson-az",
+        "state": "AZ",
+        "content": "Tile by Nic proudly provides flooring services to South Tucson, Arizona, understanding the unique character and needs of this community. We are committed to offering affordable and reliable flooring solutions to homeowners and businesses in South Tucson.\n\nWe offer a variety of flooring options to suit different budgets and styles, including tile, laminate, and vinyl. Our experienced team ensures quality installation and customer satisfaction. We understand the importance of durable and long-lasting flooring in both residential and commercial settings.\n\nTile by Nic is dedicated to serving the community of South Tucson with honesty and integrity. We strive to provide excellent service and build lasting relationships with our customers. Contact us today to discuss your flooring needs.",
+        "localContext": "South Tucson is a vibrant city with a rich cultural heritage, known for its unique shops and restaurants. Tile by Nic is dedicated to providing affordable and reliable flooring services to the residents and businesses of South Tucson.",
+        "nearbyAreas": [
+          "Tucson",
+          "Drexel Heights",
+          "Valencia West"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Maria S.",
+        "rating": 5,
+        "service": "Tile Installation",
+        "text": "Tile by Nic did an amazing job installing new tile in my kitchen. The team was professional, efficient, and the finished product is stunning. I highly recommend them!",
+        "date": "2025-03-15"
+      },
+      {
+        "name": "Robert B.",
+        "rating": 4,
+        "service": "Hardwood Flooring",
+        "text": "We hired Tile by Nic to install hardwood floors in our living room, and we're very happy with the results. A couple of minor issues came up, but they were quick to address them and ensure our satisfaction.",
+        "date": "2024-12-20"
+      },
+      {
+        "name": "Jessica L.",
+        "rating": 5,
+        "service": "Laminate Flooring",
+        "text": "Tile by Nic installed laminate flooring in our basement, and it looks fantastic. The price was very reasonable, and the installation was quick and clean. I would definitely use them again.",
+        "date": "2024-10-05"
+      },
+      {
+        "name": "David M.",
+        "rating": 5,
+        "service": "Vinyl Flooring",
+        "text": "We needed new flooring in our bathroom, and Tile by Nic recommended vinyl. It’s perfect! Waterproof and looks great. The installers were professional and finished the job on time.",
+        "date": "2024-07-10"
+      },
+      {
+        "name": "Karen P.",
+        "rating": 4,
+        "service": "Carpet Installation",
+        "text": "Tile by Nic installed new carpet in our bedrooms. The carpet is soft and comfortable, and the installation was done perfectly. The only reason I didn't give 5 stars is that the initial estimate was slightly lower than the final price.",
+        "date": "2024-05-01"
+      },
+      {
+        "name": "Tom H.",
+        "rating": 5,
+        "service": "Flooring Repair",
+        "text": "Tile by Nic repaired a cracked tile in our entryway. They were able to match the existing tile perfectly, and the repair is seamless. I was impressed with their attention to detail and professionalism.",
+        "date": "2024-02-15"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Tile by Nic: Tucson Flooring Experts",
+        "description": "Expert flooring contractor in Tucson, AZ. Tile, hardwood, laminate, vinyl, & carpet. Installation & repair. Free quotes!"
+      },
+      "about": {
+        "title": "About Tile by Nic | Tucson, AZ",
+        "description": "Learn about Tile by Nic, Tucson's trusted flooring contractor. Quality craftsmanship, local expertise, and customer satisfaction guaranteed."
+      },
+      "services": {
+        "title": "Flooring Services | Tile by Nic, Tucson",
+        "description": "Tile by Nic offers comprehensive flooring services in Tucson, AZ. Tile, hardwood, laminate, vinyl, carpet installation & repair."
+      },
+      "contact": {
+        "title": "Contact Tile by Nic | Tucson, AZ",
+        "description": "Contact Tile by Nic for a free flooring quote. Serving Tucson and surrounding areas. Call +15204048355 today!"
+      },
+      "reviews": {
+        "title": "Tile by Nic Reviews | Tucson, AZ",
+        "description": "Read reviews for Tile by Nic, Tucson's leading flooring contractor. See what our satisfied customers have to say about our services."
+      },
+      "service-areas": {
+        "title": "Service Areas | Tile by Nic, Tucson",
+        "description": "Tile by Nic provides flooring services in Tucson and surrounding areas. Check our service area map for your location."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "tile-installation": "/images/service-tile-installation.webp",
+      "hardwood-flooring": "/images/service-hardwood-flooring.webp",
+      "laminate-flooring": "/images/service-laminate-flooring.webp",
+      "vinyl-flooring": "/images/service-vinyl-flooring.webp",
+      "carpet-installation": "/images/service-carpet-installation.webp",
+      "flooring-repair": "/images/service-flooring-repair.webp"
+    },
+    "servicesResponsive": {
+      "tile-installation": {
+        "src": "/images/service-tile-installation.webp",
+        "srcset": "/images/service-tile-installation-400w.webp 400w, /images/service-tile-installation-800w.webp 800w, /images/service-tile-installation-1200w.webp 1200w, /images/service-tile-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "hardwood-flooring": {
+        "src": "/images/service-hardwood-flooring.webp",
+        "srcset": "/images/service-hardwood-flooring-400w.webp 400w, /images/service-hardwood-flooring-800w.webp 800w, /images/service-hardwood-flooring-1200w.webp 1200w, /images/service-hardwood-flooring.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "laminate-flooring": {
+        "src": "/images/service-laminate-flooring.webp",
+        "srcset": "/images/service-laminate-flooring-400w.webp 400w, /images/service-laminate-flooring-800w.webp 800w, /images/service-laminate-flooring-1200w.webp 1200w, /images/service-laminate-flooring.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "vinyl-flooring": {
+        "src": "/images/service-vinyl-flooring.webp",
+        "srcset": "/images/service-vinyl-flooring-400w.webp 400w, /images/service-vinyl-flooring-800w.webp 800w, /images/service-vinyl-flooring-1200w.webp 1200w, /images/service-vinyl-flooring.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "carpet-installation": {
+        "src": "/images/service-carpet-installation.webp",
+        "srcset": "/images/service-carpet-installation-400w.webp 400w, /images/service-carpet-installation-800w.webp 800w, /images/service-carpet-installation-1200w.webp 1200w, /images/service-carpet-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "flooring-repair": {
+        "src": "/images/service-flooring-repair.webp",
+        "srcset": "/images/service-flooring-repair-400w.webp 400w, /images/service-flooring-repair-800w.webp 800w, /images/service-flooring-repair-1200w.webp 1200w, /images/service-flooring-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
